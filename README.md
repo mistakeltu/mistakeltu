@@ -5,7 +5,8 @@
 - 👯 I’m looking to collaborate to learn programing.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mistakeltu&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mistakeltu&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mistakeltu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
