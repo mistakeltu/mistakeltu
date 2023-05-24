@@ -1,7 +1,7 @@
 ### Hi, I am Karolis 👋
 
 - 🌱 I’m currently learning fullstack.
-- 🤔 I’m looking for help with PHP.
+- 🤔 I’m looking for help with PHP, HTML and CSS.
 - 👯 I’m looking to collaborate to learn programing.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mistakeltu&show_icons=true&theme=radical)
