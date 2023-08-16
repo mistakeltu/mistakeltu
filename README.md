@@ -1,9 +1,11 @@
 ### Hi, I am Karolis 👋
 
 - 🌱 I’m currently learning fullstack.
-- 🤔 I’m looking for help with PHP, HTML and CSS.
+- 🤔 I’m looking for help with PHP, Javascript, HTML and CSS.
 - 👯 I’m looking to collaborate to learn programing.
-<h3 align="left">Connect with me:</h3>
+
+
+<h3 align="left">Codewars:</h3>
 <p align="left">
  <a href="https://www.codewars.com/users/mskltu" target="_blank">
         <img align="center" src="https://global-uploads.webflow.com/62462834c60df92621c6b5be/62462c29f3165b55ea6255ea_light-text-logo-vertical.svg" height="36" width="30" />
