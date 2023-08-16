@@ -4,7 +4,7 @@
 - 🤔 I’m looking for help with PHP, HTML and CSS.
 - 👯 I’m looking to collaborate to learn programing.
 
--     <a href="https://www.codewars.com/users/belauzas" target="_blank">
+- <a href="https://www.codewars.com/users/belauzas" target="_blank">
         <img align="center" src="https://global-uploads.webflow.com/62462834c60df92621c6b5be/62462c29f3165b55ea6255ea_light-text-logo-vertical.svg" alt="dalyvis" height="36" width="30" />
     </a>
 
